@@ -18,7 +18,7 @@ export const socialLinks = [
     href: "https://www.facebook.com/profile.php?id=100022242964905",
     icon: "fab fa-facebook",
   },
-  { id: 2, href: "https://github.com/WebHault108", icon: "fab fa-github" },
+  { id: 2, href: "https://github.com/Prantik009", icon: "fab fa-github" },
   {
     id: 3,
     href: "https://www.instagram.com/prantik_540?igsh=cnZia2piZG9kOWw5&utm_source=qr",
